@@ -2,7 +2,6 @@ import pyttsx3
 import datetime
 import time
 import speech_recognition as sr
-#from requests import pyWhatkit as kit
 import os
 import os.path
 import random
